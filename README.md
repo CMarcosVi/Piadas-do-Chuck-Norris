@@ -1,24 +1,11 @@
-# t
+#Piadas sobre chuck Norris
+neste projeto foi feito um buscador de piadas do Chuck Norris onde quando clicado no botão se gera uma nova piada
+api usada ( https://api.chucknorris.io/ )
 
-## Project setup
-```
-yarn install
-```
+#Tecnologias usadas
+- Vue
+- CSS
+- API
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+![ChuckNorris](https://user-images.githubusercontent.com/127824847/226246772-2c278799-816c-4ccc-8635-269895038c2b.png)
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
