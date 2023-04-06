@@ -2,7 +2,7 @@
 neste projeto foi feito um buscador de piadas do Chuck Norris onde quando clicado no botão se gera uma nova piada
 api usada ( https://api.chucknorris.io/ )
 
-#Tecnologias usadas
+# Tecnologias usadas
 - Vue
 - CSS
 - API
