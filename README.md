@@ -1,4 +1,4 @@
-#Piadas sobre chuck Norris
+# Piadas sobre chuck Norris
 neste projeto foi feito um buscador de piadas do Chuck Norris onde quando clicado no botão se gera uma nova piada
 api usada ( https://api.chucknorris.io/ )
 
